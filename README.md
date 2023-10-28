@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Felipe Rosa 🔱
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_feliperosa027/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCjmlKtHz0CTy_t4zqaVUB7w)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCtD_HGUpSliVld6QAxUjvkQ)
 
 ![CodeROSAx GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeROSAx&show_icons=true&theme=radical)
 
